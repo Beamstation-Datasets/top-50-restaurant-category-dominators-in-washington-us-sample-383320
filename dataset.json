@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Washington, US",
+  "export_job_id": "862bde5e-c480-4de2-9238-fd0fc99531de",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 383320,
+  "location_name": "Washington",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-washington-us-sample-383320",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/383320/beamstation_383320_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 10.53,
+  "sample_records": 4,
+  "sample_sha256": "d76b8e96ad98479d6eb16173addd58e1a051254c8f4a63d876446a0057709ecc",
+  "sample_size_bytes": 34232,
+  "total_records": 38,
+  "updated_at": "2026-04-01T00:56:54.936252+00:00"
+}
