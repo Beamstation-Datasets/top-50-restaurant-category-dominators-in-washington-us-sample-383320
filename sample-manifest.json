@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5eaab7eb-86e1-4e0e-8c6e-5c2e5762a2f1",
+  "export_job_id": "af74331b-2a73-4b4e-82ee-a1c850763bbe",
   "id_short": 383320,
-  "published_at": "2026-04-22T19:39:28Z",
+  "published_at": "2026-04-30T07:22:04Z",
   "repo_name": "top-50-restaurant-category-dominators-in-washington-us-sample-383320",
   "sample_asset_name": "beamstation_383320_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/383320/beamstation_383320_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "db1de29cac1cb28f8950558b305afdd44c5fd497b7f01c68a509a9f0c1a88b16",
-  "sample_size_bytes": 44533,
-  "total_records": 71
+  "sample_records": 6,
+  "sample_sha256": "73d2e1576d047bdc7892513f795717af5ddeb1f6a5427a101beb93b1734af6e9",
+  "sample_size_bytes": 41813,
+  "total_records": 63
 }
